@@ -54,6 +54,7 @@ img.down-arrow{
   display: flex;
   justify-content: center;
   align-items: center;
+  color: #fff;
 }
 
 .about-wrapper{
@@ -136,7 +137,7 @@ img.indimg{
 }
 
 .address{
-  background: rgba(119, 136, 153, .9);
+  background: rgba(0, 0, 0, .6);
   color: #fff;
   width: 60%;
   height: 60%;
