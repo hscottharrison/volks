@@ -15,7 +15,7 @@ div.header{
 }
 
 div.header-bkgrd{
-  height: calc(100vh - 65px);
+  height: 100vh;
   width: 100%;
   background: rgba(0, 0, 0, .6);
   display: flex;
