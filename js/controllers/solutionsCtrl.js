@@ -7,18 +7,18 @@ angular.module('volks').controller('solutionsCtrl', function($scope){
     },
     {
         icon: 'mdi-maps-place',
-        title: 'Second',
-        content: 'Lorem ipsum dolor sit amet.'
+        title: 'Site Acquisition, Zoning and Permitting',
+        content: [ 'Lease reviews', 'New Site Build', 'Colocations', 'Modifications']
     },
     {
         icon: 'mdi-social-whatshot',
-        title: 'Third',
-        content: 'Lorem ipsum dolor sit amet.'
+        title: 'Construction and Installation Services',
+        content:  ['Civil work', 'Electrical, to include AC and DC', 'RAN Networks', 'GSM, UMTS, HSPA, LTE', 'Generators', 'Microwave']
     },
     {
         icon: 'mdi-social-whatshot',
-        title: 'Third',
-        content: 'Lorem ipsum dolor sit amet.'
+        title: 'Engineering and Design Services',
+        content: ['Backhaul/circuit provisioning', 'Feasibility studies', 'Needs assessments', 'Indoor and outdoor DAS, repeater unit']
     }
   ];
 

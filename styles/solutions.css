@@ -1,0 +1,27 @@
+.solution{
+  height: 225px;
+  margin-top: 100px;
+  position: relative;
+}
+.solution-text-wrapper{
+  padding-top: 50px;
+}
+.solution-heading{
+  font-size: 18px;
+}
+.solution li{
+  list-style-type:none;
+  margin-left: 15px;
+}
+.solution-image-wrapper{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  position:absolute;
+  top: -50px;
+}
+.solution-image{
+  height: 100px;
+  background-color: #78909c;
+  border-radius: 100%;
+}
