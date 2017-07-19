@@ -12,4 +12,8 @@ angular.module('volks', ['ui.router', 'ui.materialize', 'angularTypewrite'])
     templateUrl: '../views/solutions.html',
     controller: 'solutionsCtrl'
   })
+  .state('managedservices', {
+    url: '/managedservices',
+    templateUrl: '../views/services.html'
+  })
 })

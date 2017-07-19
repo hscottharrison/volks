@@ -9,6 +9,9 @@
 .solution-heading{
   font-size: 18px;
 }
+.solutions-subhead{
+  margin-top: -5px;
+}
 .solution li{
   list-style-type:none;
   margin-left: 15px;
