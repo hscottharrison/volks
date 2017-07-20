@@ -1,17 +1,44 @@
+.services-header{
+  margin-top: 80px;
+}
 .services-paragraph{
   margin-bottom: 15px;
-  font-size: 17px;
+  font-size: 16px;
 }
 .services-subhead{
-  margin-bottom: 30px;
+  margin-bottom: 80px;
   margin-top: -5px;
 }
-.services-offer{
-  font-size: 18px;
-}
 #services-final{
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
-.services-tab-header{
-  height: 200px;
+.services-tab{
+  height: 260px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.services-tab-wrapper{
+  width: 70%;
+}
+.tab-title{
+  font-size: 50px;
+}
+.tabs .tab a{
+    color:#000;
+    font-size: 18px;
+}
+.tabs .indicator {
+	background-color:#607d8b;
+}
+.tabs .tab a:hover,.tabs .tab a.active {
+	background-color:transparent;
+	color:#607d8b;
+}
+.tabs .tab.disabled a,.tabs .tab.disabled a:hover {
+	color:#607d8b;
+}
+.see-more{
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
