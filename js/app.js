@@ -32,4 +32,8 @@ angular.module('volks', ['ui.router', 'ui.materialize', 'angularTypewrite'])
     url: '/managedservices/big_data',
     templateUrl: '../views/services/big_data.html'
   })
+  .state('oilandgas', {
+    url: '/oil_gas',
+    templateUrl: '../views/services/oil_gas.html'
+  })
 })

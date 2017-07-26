@@ -9,6 +9,9 @@ nav{
 .page-footer{
   background-color: #169EAF;
 }
+a.portfolio-link{
+  color: #000;
+}
 .nav-wrapper{
   background-color: #169EAF;
   padding-left: 20px;

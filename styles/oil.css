@@ -1,0 +1,24 @@
+.oil-headings{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+.oil-page-pic{
+  height: 500px;
+  background: url('../images/oil_page.jpg') center center;
+  background-size: cover;
+}
+.oil-list{
+  margin-top: 20px;
+}
+.oil-paragraph{
+  margin-bottom: 5px;
+}
+.telecom-page-pic-wrapper{
+  /*height: 300px;
+  background: url('../images/telecom_page.jpg') no-repeat center center;
+  background-size: cover;*/
+}
+.telecom-page-pic{
+  height: 300px;
+}
