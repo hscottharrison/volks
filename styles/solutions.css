@@ -30,9 +30,18 @@
 }
 .solution-image{
   height: 100px;
-  background-color: #78909c;
+  background-color: #F5791A;
   border-radius: 100%;
 }
 #network-connection{
   background-color: #fff;
+}
+.telecom-wrapper{
+  padding: 50px;
+}
+.telecom-content-1 p{
+  margin: 30px;
+}
+img.parallax-image{
+  height: 200px;
 }
