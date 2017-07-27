@@ -1,0 +1,22 @@
+nav{
+  height: 100px;
+  box-shadow: none;
+  background-color: #169EAF;
+}
+.nav-wrapper-2{
+  background-color: #169EAF;
+  padding-left: 20px;
+  padding-right: 20px;
+  z-index: 9;
+}
+.nav-wrapper-2 li a{
+  height: 100px;
+  padding-top: 20px;
+  font-size: 18px;
+}
+.logo-2{
+  height: 100px;
+}
+.nav-wrapper-2 li a:hover{
+  color: #F5791A;
+}
