@@ -132,26 +132,25 @@ img.about-icon{
 }
 
 div.industries{
-  min-height: 500px;
+  min-height: 375px;
   width: 100%;
   color: #fff;
 }
-
-div.industry-wrapper{
-  display: flex;
-  justify-content: space-around;
-  padding: 20px;
+.featured-solutions-wrapper{
+  min-height: 375px;
 }
-
+.industry-solution{
+  height: 100px;
+  background-color: #169EAF;
+  border-radius: 100px;
+}
+.row .col.s3{
+  margin-left: 75px;
+}
 img.indimg{
   height: 200px;
   width: 300px;
 }
-
-.og{
-  width: 30%;
-}
-
 .locations{
   height: 500px;
   width: 100%;
