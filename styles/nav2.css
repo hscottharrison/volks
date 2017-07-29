@@ -1,22 +1,25 @@
 nav{
   height: 100px;
-  box-shadow: none;
+  /*box-shadow: none;*/
   background-color: #169EAF;
+  /*background: transparent;*/
 }
 .nav-wrapper-2{
   background-color: #169EAF;
   padding-left: 20px;
   padding-right: 20px;
-  z-index: 9;
 }
 .nav-wrapper-2 li a{
   height: 100px;
   padding-top: 20px;
   font-size: 18px;
-}
-.logo-2{
-  height: 100px;
+  color: #fff;
+  font-weight: bold;
 }
 .nav-wrapper-2 li a:hover{
   color: #F5791A;
+  background: rgba(22,158,175, 0.6)
+}
+.logo-2{
+  height: 100px;
 }

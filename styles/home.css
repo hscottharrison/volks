@@ -3,6 +3,11 @@
   margin: 0;
   font-family: 'Open Sans', sans-serif;
 }
+.page-header{
+  height: 250px;
+  background: url('../images/technology.jpg') center center ;
+  background-size: cover
+}
 nav{
   height: 100px;
   box-shadow: none;
@@ -14,10 +19,9 @@ a.portfolio-link{
   color: #000;
 }
 .nav-wrapper{
-  background-color: transparent;
-  background: rgba(0, 0, 0, .6);
+  background-color: #f5791A;
   padding-left: 20px;
-  padding-right: 20px;
+  padding-right: 100px;
 }
 .nav-wrapper li a{
   height: 100px;
@@ -26,15 +30,17 @@ a.portfolio-link{
 }
 .nav-wrapper li a:hover{
   color: #F5791A;
-  background: rgba(22,158,175, 0.6)
+  background: #169EAF;
 }
 .logo{
-  height: 150px;
+  margin-top: 120px;
+  margin-left: 75px;
+  height: 175px;
 }
 div.header{
   height: 100vh;
   width: 100%;
-  background: url('../images/satelite.jpg') no-repeat center center;
+  background: url('../images/technology.jpg') no-repeat center center;
   background-size: cover;
   color: #fff;
 }
