@@ -1,0 +1,15 @@
+.about-list-wrapper{
+  padding-top: 150px;
+}
+.about-list-header{
+  color: #800020
+}
+.about-list-item{
+  margin-bottom: 10px;
+}
+.check-icon{
+  margin-right: 5px;
+}
+.mission-statement{
+  line-height: 35px;
+}
