@@ -13,13 +13,13 @@ nav{
   box-shadow: none;
 }
 .page-footer{
-  background-color: #169EAF;
+  background-color: #000080;
 }
 a.portfolio-link{
   color: #000;
 }
 .nav-wrapper{
-  background-color: #f5791A;
+  background-color: #800020;
   padding-left: 20px;
   padding-right: 100px;
 }
@@ -28,10 +28,9 @@ a.portfolio-link{
   padding-top: 10px;
   font-size: 17px;
 }
-.nav-wrapper li a:hover{
-  color: #F5791A;
+/*.nav-wrapper li a:hover{
   background: #169EAF;
-}
+}*/
 .logo{
   margin-top: 120px;
   margin-left: 75px;
@@ -85,7 +84,7 @@ img.down-arrow{
   justify-content: center;
   align-items: center;
   color: #fff;
-  background-color: #168EAF;
+  background-color: #757575;
 }
 
 .about-wrapper{
@@ -124,11 +123,12 @@ img.about-icon{
 .industries{
   padding: 20px;
   text-align: center;
-  background-color: #F5791A;
+  background-color: #800020;
+  box-sizing: border-box;
 }
 
 .industries h2{
-  margin: 0px;
+  margin-bottom: 50px;
 }
 
 div.industries{
@@ -138,10 +138,11 @@ div.industries{
 }
 .featured-solutions-wrapper{
   min-height: 375px;
+  padding-top: 40px;
 }
 .industry-solution{
   height: 100px;
-  background-color: #168EAF;
+  background-color: #757575;
   border-radius: 100px;
   display: flex;
   justify-content: center;

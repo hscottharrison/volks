@@ -29,17 +29,17 @@
     font-size: 18px;
 }
 .tabs .indicator {
-	background-color:#F5791A;
+	background-color:#800020;
 }
 .tabs .tab a:hover,.tabs .tab a.active {
 	background-color:transparent;
-	color:#F5791A;
+	color:#800020;
 }
 .tabs .tab.disabled a,.tabs .tab.disabled a:hover {
-	color:#F5791A;
+	color:#800020;
 }
 .see-more{
   margin-top: 25px;
   margin-bottom: 25px;
-  background-color: #F5791A;
+  background-color: ##800020;
 }

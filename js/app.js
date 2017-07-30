@@ -40,4 +40,8 @@ angular.module('volks', ['ui.router', 'ui.materialize', 'angularTypewrite'])
     url: '/globaloffices',
     templateUrl: '../views/global.html'
   })
+  .state('about', {
+    url: '/about',
+    templateUrl: '../views/about.html'
+  })
 })
