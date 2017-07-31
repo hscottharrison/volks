@@ -31,15 +31,16 @@ nav{
 /*.nav-wrapper li a:hover{
   background: #169EAF;
 }*/
-.logo{
+/*.logo{
   margin-top: 125px;
   margin-left: 0px;
   height: 210px;
-}
+  display: none;
+}*/
 div.header{
   height: 100vh;
   width: 100%;
-  background: url('../images/Technology3.jpg') no-repeat;
+  background: url('../images/Technology5.jpg') no-repeat;
   background-size: cover;
   color: #fff;
 }
@@ -47,7 +48,7 @@ div.header{
 div.header-bkgrd{
   height: 100vh;
   width: 100%;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.2);
   display: flex;
   flex-direction: column;
   justify-content: center;

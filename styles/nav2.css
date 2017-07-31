@@ -20,5 +20,10 @@ nav{
   background: rgba(22,158,175, 0.6)
 }
 .logo-2{
+  margin-top: 125px;
+  margin-left: 0px;
+  height: 210px;
+}
+.logo-3{
   height: 100px;
 }
