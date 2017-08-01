@@ -48,11 +48,14 @@ div.header{
 div.header-bkgrd{
   height: 100vh;
   width: 100%;
-  background: rgba(0, 0, 0, 0.2);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+div.header-wrapper{
+  width: 60%;
+  background: rgba(0, 0, 0, 0.2);
 }
 
 .header-large{
@@ -61,6 +64,8 @@ div.header-bkgrd{
 
 .header-large h2{
   margin-top: 0px;
+  /*color: #800020;*/
+  text-shadow: 4px 4px 4px black!important;
 }
 
 .header-p{
@@ -69,12 +74,14 @@ div.header-bkgrd{
   width: 55%;
   text-align: center;
   line-height: 30px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
 }
 
 img.down-arrow{
   background-color: #fff;
   height: 50px;
-  margin-top: 50px;
+  margin-top: 30px;
   border-radius: 100%;
   border: 5px solid #000;
 }
