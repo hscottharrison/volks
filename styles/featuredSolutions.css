@@ -1,0 +1,22 @@
+.staffing-p{
+  line-height: 30px;
+}
+.staffing-candidate-list{
+  font-size: 18px;
+}
+.core-offerings-list{
+  font-size: 25px;
+}
+.core-icon{
+  margin-right: 10px;
+}
+.specialty-offering{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.core-offering{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

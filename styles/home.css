@@ -12,12 +12,6 @@ nav{
   height: 80px;
   box-shadow: none;
 }
-.page-footer{
-  background-color: #169EAE;
-}
-.portfolio-link{
-  color: #000;
-}
 .nav-wrapper{
   background-color: #800020;
   padding-left: 20px;
@@ -28,15 +22,6 @@ nav{
   padding-top: 10px;
   font-size: 17px;
 }
-/*.nav-wrapper li a:hover{
-  background: #169EAF;
-}*/
-/*.logo{
-  margin-top: 125px;
-  margin-left: 0px;
-  height: 210px;
-  display: none;
-}*/
 div.header{
   height: 100vh;
   width: 100%;
@@ -44,7 +29,6 @@ div.header{
   background-size: cover;
   color: #fff;
 }
-
 div.header-bkgrd{
   height: 100vh;
   width: 100%;
@@ -53,28 +37,21 @@ div.header-bkgrd{
   justify-content: center;
   align-items: center;
 }
-div.header-wrapper{
-  width: 60%;
-  background: rgba(0, 0, 0, 0.2);
-}
-
 .header-large{
   text-align: center;
 }
-
 .header-large h2{
   margin-top: 0px;
-  /*color: #800020;*/
   text-shadow: 4px 4px 4px black!important;
 }
-
 .header-p{
   margin-top: 30px;
   font-size: 18px;
-  width: 55%;
   text-align: center;
   line-height: 30px;
-  background: rgba(0, 0, 0, 0.5);
+  width: 55%;
+  /*background: rgba(0, 0, 0, 0.5);*/
+  text-shadow: 1px 1px 1px black!important;
   padding: 10px;
 }
 
@@ -95,7 +72,6 @@ img.down-arrow{
   color: #fff;
   background-color: #757575;
 }
-
 .about-wrapper{
   min-height: 400px;
   width: 100%;
@@ -104,7 +80,6 @@ img.down-arrow{
   justify-content: center;
   padding: 10px;
 }
-
 .about-point{
   min-height: 300px;
   width: 33%;
@@ -114,50 +89,49 @@ img.down-arrow{
   align-items: center;
   border-right: 2px solid #fff;
   text-align: center;
-
 }
-
 .no-border{
   border: none;
 }
-
 .about-point h6{
   font-size: 20px;
 }
-
 img.about-icon{
   height: 150px;
 }
-
-.industries{
-  padding: 20px;
+div.industries{
+  min-height: 300px;
+  width: 100%;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
   text-align: center;
   background-color: #800020;
   box-sizing: border-box;
-}
-
-.industries h2{
-  margin-bottom: 50px;
-}
-
-div.industries{
-  min-height: 375px;
-  width: 100%;
-  color: #fff;
-}
-.featured-solutions-wrapper{
-  min-height: 375px;
-  padding-top: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 .industry-solution{
-  height: 100px;
+  height: 80px;
+  width: 25%;
   background-color: #757575;
   border-radius: 100px;
   display: flex;
   justify-content: center;
 }
-.row .col.s3{
-  margin-left: 75px;
+.industry-solution:hover{
+  background-color: #169EAE;
+}
+.page-footer{
+  background-color: #169EAE;
+}
+.portfolio-link{
+  color: #fff;
+  text-decoration: underline;
+}
+.portfolio-link:hover{
+  color: blue;
 }
 img.indimg{
   height: 200px;
