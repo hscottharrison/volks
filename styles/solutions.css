@@ -44,3 +44,9 @@
 .solutions-image{
   height: 400px;
 }
+.solutions-text{
+  font-size: 18px;
+  line-height: 27px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
