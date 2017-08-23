@@ -27,3 +27,7 @@ nav{
 .logo-3{
   height: 100px;
 }
+.nav2-social-container{
+  position: absolute;
+  padding-top: 10px;
+}
