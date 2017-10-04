@@ -22,3 +22,42 @@
 .job:hover{
   box-shadow: 10px 5px 5px 5px #888888;
 }
+
+.career-main-wrapper{
+  padding: 40px 40px;
+}
+
+.career-main-wrapper .go-back a i{
+  margin-right: 10px;
+}
+
+.career-header{
+  margin-top: 40px;
+  text-align: center;
+  width: 100%;
+}
+
+.career-info{
+  padding: 40px;
+
+}
+
+.career-info h6{
+  font-weight: bold;
+}
+
+.career-info ul{
+  list-style-type: lower-latin;
+}
+
+.responsibilities-list{
+  margin-left: 40px;
+}
+
+ul.responsibilities-list li{
+  list-style-type: initial;
+}
+
+.career-info-section{
+  margin: 15px 0px;
+}
