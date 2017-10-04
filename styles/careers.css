@@ -1,0 +1,24 @@
+.careers-main{
+  text-align: center;
+}
+
+.career-list-wrapper{
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.job{
+  width: 50%;
+  text-align: left;
+  padding-left: 15px;
+  box-shadow: 1px 1px 5px #888888;
+  border-left: 20px solid #800020;
+  height: 200px;
+  margin-bottom: 20px
+}
+
+.job:hover{
+  box-shadow: 10px 5px 5px 5px #888888;
+}
